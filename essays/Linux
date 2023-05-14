@@ -1,0 +1,27 @@
+---
+layout: essay
+type: essay
+title: "Week 10 Essay"
+# All dates must be YYYY-MM-DD format!
+date: 2023-03-13
+published: true
+labels:
+  - Linux
+---
+
+<">
+
+*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+
+In the Linux operating system, a file descriptor is a unique number used to identify a file in your computer’s operating system. This unique number describes a data resource and how to access that resource. Each file descriptor has at least one number attached to it that will be used to open the file on your system.  
+Redirection, in relation to outputting the stdout or the stderr of a command to another location, such as a text file can be described as the process of diverting the output normally intended for standard output into a file instead. In the standard output (stdout), bash will send output to stdout and the output goes to the display screen. Same goes for the standard error (stderr). The bash shell sends the error message to stderr and it is displayed on the display screen. Stdout stream us numbered as stdout 1 while stderr stream is numbered as stderr 2.  
+Similar to redirection, a pipe redirects a stream from one program to another instead of a file. Using pipe will send the standard output of one program to another program, but only the second program’s data will be shown on the display screen. While pipe may look very similar a command that uses > or >>, there is a huge difference. The pipe will use redirection to move data from one program to another, but brackets will only be used in redirection of files. 
+Piping can be used in conjunction with a command like grep since pipes send the output of one command as input of another command. The grep will be used to find strings and values in the text document. 
+Some user-defined variables that can be used to modify the user environment would be  ID, variable tag, description, type of variable being used, display name, and display order. User-defined variables are found in the organization tree and must be defined before their first use. 
+	Aliases can be used to dramatically simplify common commands by being able to define your own commands by subbing a string for the first token of a simple command. Aliases allows the user to make their own shortcuts for a command, file name, or shell text. An alias is just a term created to translate to another term.
+	The while command is also referred to as the while loop and its construct allows for repetitive execution of a list of commands. It continues to repeat itself until its statement conditions is evaluated as false. Conditions have to be optimal to run a while command in Linux.
+	Environment files define the behavior of the environment. Whatever environment file is used will determine what type of result and outcome the end result will be. These files are stored within a system and used by applications that are later launched in shells or sub-shells.
+	An echo command in shell script is used to display a line of text that is passed in as an argument. Bash command is typically used in shell scripts to output status to the screen or to a file. It is also one of the most basic and commonly used commands in a Linux environment. 
+	If, elif, and else are conditional statements that provide you with the decision making that is required when you want to execute code based on a particular condition. If is always the first command used. After if is used, if the statement is not true, the code will check the eilf and else for true statements.
+	Case construct evaluates a series of conditions until one is true and executes a set or statements based on their input. They are evaluated in sequential order for their logical value until a value of true has been identified.
+	
