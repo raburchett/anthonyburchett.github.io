@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: hops.jpg
 title: "Homebrewing for Beginners"
 date: 2023
 published: true
