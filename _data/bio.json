@@ -9,7 +9,7 @@
     "summary": "I am studying for an Associate's Degree in Information Technology at Sullivan University. I expect to graduate in Spring, 2023.",
     "location": { "address": "", "postalCode": "41230", "city": "Louisa", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
-      { "network": "github", "username": "raburchett", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "raburchett", "url": "http://github.com/raburchett" },
       { "network": "linkedin", "username": "robert-burchett", "url": "http://linkedin.com/in/robert-burchett" },
       
     ]
