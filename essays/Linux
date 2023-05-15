@@ -11,7 +11,7 @@ labels:
 
 <">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+*Linux Essay.*
 
 In the Linux operating system, a file descriptor is a unique number used to identify a file in your computer’s operating system. This unique number describes a data resource and how to access that resource. Each file descriptor has at least one number attached to it that will be used to open the file on your system.  
 Redirection, in relation to outputting the stdout or the stderr of a command to another location, such as a text file can be described as the process of diverting the output normally intended for standard output into a file instead. In the standard output (stdout), bash will send output to stdout and the output goes to the display screen. Same goes for the standard error (stderr). The bash shell sends the error message to stderr and it is displayed on the display screen. Stdout stream us numbered as stdout 1 while stderr stream is numbered as stderr 2.  
