@@ -10,7 +10,7 @@
     "location": { "address": "", "postalCode": "41230", "city": "Louisa", "countryCode": "USA", "region": "Kentucky" },
     "profiles": [
       { "network": "github", "username": "raburchett", "url": "http://github.com/raburchett" },
-      { "network": "linkedin", "username": "robert-burchett", "url": "http://linkedin.com/in/robert-burchett" },
+      { "network": "linkedin", "username": "robert-burchett", "url": "http://linkedin.com/in/robert-burchett" }
       
     ]
   },
@@ -20,7 +20,7 @@
     { "name": "Gaming" },
     { "name": "Football" },
     { "name": "Lawn Care" }
-  ],
+  ]
   "skills": [
     {
       "name": "Languages and Frameworks",
