@@ -13,12 +13,12 @@
 			"city": "Louisa",
 			"countryCode": "USA",
 			"region": "Kentucky"
-		},
+		}
 		"profiles": [{
 				"network": "github",
 				"username": "raburchett",
 				"url": "http://github.com/raburchett"
-			},
+			}
 			{
 				"network": "linkedin",
 				"username": "robert-burchett",
@@ -26,7 +26,7 @@
 			}
 
 		]
-	},
+	}
 	"interests": [{
 			"name": "Interactive media"
 		},
@@ -59,7 +59,7 @@
 		"startDate": "2021",
 		"endDate": "Present",
 		"courses": []
-	}],
+	}]
 	"work": [{
 			"company": "Parsons Corporation",
 			"position": "Area Supervisor",
@@ -71,7 +71,7 @@
 				"Blue Grass Chemical Agent Pilot Plant",
 				"Destruction of chemical weapons"
 			]
-		},
+		}
 		{
 			"company": "",
 			"position": "",
@@ -94,7 +94,7 @@
 			"highlights": [
 				""
 			]
-		},
+		}
 		{
 			"organization": "",
 			"website": "",
