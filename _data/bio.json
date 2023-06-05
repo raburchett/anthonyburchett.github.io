@@ -1,0 +1,128 @@
+{
+	"basics": {
+		"name": "Anthony Burchett",
+		"label": "Student",
+		"picture": "https://github.com/raburchett.png",
+		"email": "raburch0446@my.sullivan.edu",
+		"phone": "",
+		"website": "https://anthonyburchett.github.io",
+		"summary": "I am studying for an Associate's Degree in Information Technology at Sullivan University. I expect to graduate in Spring, 2023.",
+		"location": {
+			"address": "",
+			"postalCode": "41230",
+			"city": "Louisa",
+			"countryCode": "USA",
+			"region": "Kentucky"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "raburchett",
+				"url": "http://github.com/raburchett"
+			},
+			{
+				"network": "linkedin",
+				"username": "robert-burchett",
+				"url": "http://linkedin.com/in/robert-burchett"
+			}
+
+		]
+	},
+	"interests": [{
+			"name": "Interactive media"
+		},
+		{
+			"name": "Homebrewing"
+		},
+		{
+			"name": "Gaming"
+		},
+		{
+			"name": "Football"
+		},
+		{
+			"name": "Lawn Care"
+		}
+	],
+	"skills": [{
+			"name": "Languages and Frameworks",
+			"keywords": ["C", "C++", "HTML", "Javascript", "CSS"]
+		},
+		{
+			"name": "Toolsets/OS",
+			"keywords": ["MacOS", "Ubuntu", "Git/GitHub", "Windows", "Linux"]
+		}
+	],
+	"education": [{
+		"institution": "Sullivan University, Lexington, KY",
+		"area": "Information Technology (expected Spring, 2023)",
+		"studyType": "A.D.",
+		"startDate": "2021",
+		"endDate": "Present",
+		"courses": []
+	}],
+	"work": [{
+			"company": "Parsons Corporation",
+			"position": "Area Supervisor",
+			"website": "",
+			"startDate": "2018",
+			"endDate": "Present",
+			"summary": "Blue Grass Army Depot - Destruction of chemical agents GB (sarin), VX, and H (mustard)",
+			"highlights": [
+				"Blue Grass Chemical Agent Pilot Plant",
+				"Destruction of chemical weapons"
+			]
+		},
+		{
+			"company": "Fluor Corporation",
+			"position": "Industrial Field Assistant",
+			"website": "www.fluor.com",
+			"startDate": "Aug 2016",
+			"endDate": "July 2017",
+			"summary": "As a member of the VC Summer new nuclear power plant project, I worked in the field as an assistant to the general superintendent of scaffolding. ",
+			"highlights": [
+
+			]
+		}
+	],
+	"": [{
+			"organization": "",
+			"website": "",
+			"position": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": "",
+			"highlights": [
+				""
+			]
+		},
+		{
+			"organization": "",
+			"website": "",
+			"position": "",
+			"startDate": "",
+			"endDate": "",
+			"summary": "",
+			"highlights": [
+				"",
+				"",
+				""
+			]
+		}
+	],
+	"awards": [{
+			"title": "",
+			"date": "",
+			"awarder": "",
+			"summary": ""
+		},
+		{
+			"title": "",
+			"date": "",
+			"awarder": "",
+			"summary": ""
+		}
+	],
+	"references": [{
+		"name": "Available upon request"
+	}]
+}
